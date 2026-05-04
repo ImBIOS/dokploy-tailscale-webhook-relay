@@ -13,8 +13,6 @@ A minimal webhook relay that:
 - Exposes only the webhook endpoints publicly via Cloudflare Tunnel
 - Forwards requests transparently to Dokploy
 
-![Architecture](architecture.png)
-
 ## Features
 
 - **Dashboard Privacy**: Dokploy dashboard accessible only via Tailscale VPN
